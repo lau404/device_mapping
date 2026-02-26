@@ -1,0 +1,1 @@
+调用DeepSeek、Gemini对设备内部型号进行映射
